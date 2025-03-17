@@ -1,1 +1,10 @@
-{"save_path": "", "sheet_ids": "", "document_archive": "", "sheet_propouse": "", "declaration_document": ""}
+{
+    "save_path": "",
+    "sheet_ids": "",
+    "document_archive": "",
+    "sheet_propouse": "",
+    "declaration_document": "",
+    "cotacao_document": "",
+    "certificate_path": "",
+    "certificate_password": ""
+}

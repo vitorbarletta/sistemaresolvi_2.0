@@ -253,6 +253,129 @@ class Ui_MainPages(object):
         # Add page 4 to stacked widget
         self.pages.addWidget(self.page_4)
         
+        # Adicione após a página 4, antes do trecho que adiciona o widget "pages" ao layout principal:
+
+        # PAGE 5 - LISTA DE EDITAIS
+        self.page_5 = QWidget()
+        self.page_5.setObjectName(u"page_5")
+        self.page_5_layout = QVBoxLayout(self.page_5)
+        self.page_5_layout.setSpacing(5)
+        self.page_5_layout.setObjectName(u"page_5_layout")
+        self.page_5_layout.setContentsMargins(5, 5, 5, 5)
+
+        self.scroll_area_5 = QScrollArea(self.page_5)
+        self.scroll_area_5.setObjectName(u"scroll_area_5")
+        self.scroll_area_5.setStyleSheet(u"background: transparent;")
+        self.scroll_area_5.setFrameShape(QFrame.NoFrame)
+        self.scroll_area_5.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.scroll_area_5.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.scroll_area_5.setWidgetResizable(True)
+
+        self.contents_5 = QWidget()
+        self.contents_5.setObjectName(u"contents_5")
+        self.contents_5.setGeometry(QRect(0, 0, 840, 580))
+        self.contents_5.setStyleSheet(u"background: transparent;")
+
+        self.verticalLayout_5 = QVBoxLayout(self.contents_5)
+        self.verticalLayout_5.setSpacing(15)
+        self.verticalLayout_5.setObjectName(u"verticalLayout_5")
+        self.verticalLayout_5.setContentsMargins(5, 5, 5, 5)
+
+        self.title_label_5 = QLabel(self.contents_5)
+        self.title_label_5.setObjectName(u"title_label_5")
+        self.title_label_5.setMaximumSize(QSize(16777215, 40))
+        self.title_label_5.setFont(font)
+        self.title_label_5.setStyleSheet(u"font-size: 18pt; font-weight: bold;")
+        self.verticalLayout_5.addWidget(self.title_label_5)
+
+        self.description_label_5 = QLabel(self.contents_5)
+        self.description_label_5.setObjectName(u"description_label_5")
+        self.description_label_5.setAlignment(Qt.AlignHCenter|Qt.AlignTop)
+        self.description_label_5.setWordWrap(True)
+        self.verticalLayout_5.addWidget(self.description_label_5)
+
+        # Layout para os filtros
+        self.filters_layout_5 = QHBoxLayout()
+        self.filters_layout_5.setObjectName(u"filters_layout_5")
+        self.verticalLayout_5.addLayout(self.filters_layout_5)
+
+        # Layout para a tabela
+        self.table_layout_5 = QVBoxLayout()
+        self.table_layout_5.setObjectName(u"table_layout_5")
+        self.verticalLayout_5.addLayout(self.table_layout_5)
+
+        # Set scroll area widget and add to page layout
+        self.scroll_area_5.setWidget(self.contents_5)
+        self.page_5_layout.addWidget(self.scroll_area_5)
+
+        # Add page 5 to stacked widget
+        self.pages.addWidget(self.page_5)
+        
+        # Adicione após o código da página 5 (antes do main_pages_layout.addWidget(self.pages)):
+
+        # PAGE 6 - DETALHES DO EDITAL
+        self.page_6 = QWidget()
+        self.page_6.setObjectName(u"page_6")
+        self.page_6_layout = QVBoxLayout(self.page_6)
+        self.page_6_layout.setSpacing(5)
+        self.page_6_layout.setObjectName(u"page_6_layout")
+        self.page_6_layout.setContentsMargins(5, 5, 5, 5)
+
+        self.scroll_area_6 = QScrollArea(self.page_6)
+        self.scroll_area_6.setObjectName(u"scroll_area_6")
+        self.scroll_area_6.setStyleSheet(u"background: transparent;")
+        self.scroll_area_6.setFrameShape(QFrame.NoFrame)
+        self.scroll_area_6.setVerticalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        self.scroll_area_6.setHorizontalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        self.scroll_area_6.setWidgetResizable(True)
+
+        self.contents_6 = QWidget()
+        self.contents_6.setObjectName(u"contents_6")
+        self.contents_6.setGeometry(QRect(0, 0, 840, 580))
+        self.contents_6.setStyleSheet(u"background: transparent;")
+
+        self.verticalLayout_6 = QVBoxLayout(self.contents_6)
+        self.verticalLayout_6.setSpacing(15)
+        self.verticalLayout_6.setObjectName(u"verticalLayout_6")
+        self.verticalLayout_6.setContentsMargins(5, 5, 5, 5)
+
+        # Header da página com botão de voltar
+        self.header_layout_6 = QHBoxLayout()
+        self.header_layout_6.setObjectName(u"header_layout_6")
+
+        self.back_button_6 = QPushButton()
+        self.back_button_6.setObjectName(u"back_button_6")
+        self.back_button_6.setMinimumSize(QSize(40, 40))
+        self.back_button_6.setMaximumSize(QSize(40, 40))
+        self.back_button_6.setCursor(QCursor(Qt.PointingHandCursor))
+        self.back_button_6.setStyleSheet(u"background-color: transparent;")
+
+        self.title_label_6 = QLabel(self.contents_6)
+        self.title_label_6.setObjectName(u"title_label_6")
+        self.title_label_6.setMaximumSize(QSize(16777215, 40))
+        self.title_label_6.setFont(font)
+        self.title_label_6.setStyleSheet(u"font-size: 18pt; font-weight: bold;")
+
+        self.header_layout_6.addWidget(self.back_button_6)
+        self.header_layout_6.addWidget(self.title_label_6)
+        self.header_layout_6.addStretch()
+
+        self.verticalLayout_6.addLayout(self.header_layout_6)
+
+        # Conteúdo dos detalhes do edital
+        self.edital_details_layout = QVBoxLayout()
+        self.edital_details_layout.setObjectName(u"edital_details_layout")
+        self.verticalLayout_6.addLayout(self.edital_details_layout)
+
+        # Set scroll area widget and add to page layout
+        self.scroll_area_6.setWidget(self.contents_6)
+        self.page_6_layout.addWidget(self.scroll_area_6)
+
+        # Add page 6 to stacked widget
+        self.pages.addWidget(self.page_6)
+        
+        
+        
 
         self.main_pages_layout.addWidget(self.pages)
 
@@ -271,6 +394,11 @@ class Ui_MainPages(object):
         self.title_label.setText(QCoreApplication.translate("MainPages", u"Importar editais", None))
         self.title_label_3.setText(QCoreApplication.translate("MainPages", u"Configurações", None))
         self.title_label_4.setText(QCoreApplication.translate("MainPages", u"Robô Montador", None))
-
+        # No método retranslateUi(), adicione:
+        self.title_label_5.setText(QCoreApplication.translate("MainPages", u"Lista de Editais", None))
+        self.description_label_5.setText(QCoreApplication.translate("MainPages", u"Visualize todos os editais importados", None))
+        # Adicione ao método retranslateUi:
+        self.title_label_6.setText(QCoreApplication.translate("MainPages", u"Detalhes do Edital", None))
+        self.back_button_6.setText(QCoreApplication.translate("MainPages", u"←", None))
     # retranslateUi
 

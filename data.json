@@ -1,0 +1,372 @@
+[
+    {
+        "id": 6095221,
+        "objeto": "Aquisição de conjunto de material elétrico para Base Almirante Castro e Silva",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "900162025",
+        "uasgNome": "BASE ALMIRANTE CASTRO E SILVA",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=79158006900162025",
+        "item": [
+            {
+                "codigo": 25,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>Fita</em> Isolante Elétrica",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "20",
+                "decreto7174": 1,
+                "descricao": "Fita Isolante Elétrica"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "12 - Aviso 90016-2025",
+                "url": "https://pncp.gov.br/pncp-api/v1/orgaos/00394502000144/compras/2025/1736/arquivos/1"
+            }
+        ],
+        "dataInicial": "14/03/2025 13:10:38",
+        "dataFinal": "19/03/2025 07:59:59",
+        "uasg": "791580",
+        "orgao": null,
+        "uf": "Rio de Janeiro",
+        "tipo": "Dispensa",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6095860,
+        "objeto": "Aquisição de Materiais impressos.",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "901112025",
+        "uasgNome": "ESP-FUND. PE. ANCHI - CTO.PTA.RADIO TV.EDUC.",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=12110106901112025",
+        "item": [
+            {
+                "codigo": 1,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>Pasta</mark> <em>Arquivo</em>",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "800",
+                "decreto7174": 1,
+                "descricao": "Pasta Arquivo"
+            },
+            {
+                "codigo": 3,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>Envelope</em>",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "400",
+                "decreto7174": 1,
+                "descricao": "Envelope"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "AC_121101-000114-2025",
+                "url": "https://pncp.gov.br/pncp-api/v1/orgaos/61914891000186/compras/2025/153/arquivos/1"
+            }
+        ],
+        "dataInicial": "14/03/2025 14:48:39",
+        "dataFinal": "19/03/2025 07:59:59",
+        "uasg": "121101",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Dispensa",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6094202,
+        "objeto": "Aquisição de <em>Fita</em> Adesiva, Livro de Protocolo e outros.",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "901102025",
+        "uasgNome": "ESP-INSTITUTO DANTE PAZZANESE DE CARDIOLOGIA",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09018105901102025",
+        "item": [
+            {
+                "codigo": 1,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>FITA</em> ADESIVA EMBALAGEM - <em>FITA</em> ADESIVA EMBALAGEM, MATERIAL POLIPROPILENO, COMPRIMENTO 50 M, LARGURA 50 MM, APLICAÇÃO EMPACOTAMENTO EM GERAL, COR MARROM",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "165",
+                "decreto7174": 1,
+                "descricao": "FITA ADESIVA EMBALAGEM"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "09018105901102025000",
+                "url": "https://mdw.minha.effecti.com.br/edital/anexo/1/90181/1/901102025"
+            }
+        ],
+        "dataInicial": "14/03/2025 08:00:00",
+        "dataFinal": "26/03/2025 09:00:00",
+        "uasg": "90181",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Pregão Eletrônico",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6094196,
+        "objeto": "Aquisição de <mark>materiais</mark> de higiene pessoal e <em>limpeza</em>",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "900092025",
+        "uasgNome": "ESP-DEPTO.REG.GRANDE SAO PAULO - DRS-I G.S.P",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09019105900092025",
+        "item": [
+            {
+                "codigo": 3,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "ESPONJA <em>LIMPEZA</em> - ESPONJA <em>LIMPEZA</em>, <mark>MATERIAL</mark> ESPUMA/ FIBRA SINTÉTICA, FORMATO RETANGULAR, ABRASIVIDADE MÉDIA, APLICAÇÃO <em>LIMPEZA</em> GERAL, CARACTERÍSTICAS ADICIONAIS DUPLA FACE, COMPRIMENTO MÍNIMO 110 MM, LARGURA MÍNIMA 75 MM, ESPESSURA MÍNIMA 20 MM",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "1000",
+                "decreto7174": 1,
+                "descricao": "ESPONJA LIMPEZA"
+            },
+            {
+                "codigo": 4,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>PANO</mark> <em>LIMPEZA</em> - <mark>PANO</mark> <em>LIMPEZA</em>, <mark>MATERIAL</mark> 100% ALGODÃO, COR AMARELA, APLICAÇÃO USO GERAL",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "150",
+                "decreto7174": 1,
+                "descricao": "PANO LIMPEZA"
+            },
+            {
+                "codigo": 6,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>PANO</mark> <em>LIMPEZA</em> - <mark>PANO</mark> <em>LIMPEZA</em>, <mark>MATERIAL</mark> 100% ALGODÃO, COMPRIMENTO 64 CM, LARGURA 45 CM, CARACTERÍSTICAS ADICIONAIS ALVEJADO, APLICAÇÃO USO GERAL, COR BRANCA, TIPO SACO",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "100",
+                "decreto7174": 1,
+                "descricao": "PANO LIMPEZA"
+            },
+            {
+                "codigo": 13,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>PAPEL</em> <mark>HIGIÊNICO</mark> - <em>PAPEL</em> <mark>HIGIÊNICO</mark>, MATERIAL FIBRAS CELULÓSICAS, LARGURA 10 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS PICOTADO, FOLHA DUPLA",
+                "unidade": "Fardo 8,00 RO",
+                "exclusivoMeEpp": 1,
+                "quantidade": "250",
+                "decreto7174": 1,
+                "descricao": "PAPEL HIGIÊNICO"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "09019105900092025000",
+                "url": "https://mdw.minha.effecti.com.br/edital/anexo/1/90191/1/900092025"
+            }
+        ],
+        "dataInicial": "14/03/2025 08:00:00",
+        "dataFinal": "26/03/2025 09:00:00",
+        "uasg": "90191",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Pregão Eletrônico",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6094690,
+        "objeto": "Aquisição de <mark>material</mark> de higiene pessoal e <mark>material</mark> de <em>limpeza</em> destinadas a Delegacia Seccional de São João da Boa Vista e Unidades Subordinadas",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "900032025",
+        "uasgNome": "ESP-DELEG.SECC.POLICIA DE SJ BOA VISTA",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=18029306900032025",
+        "item": [
+            {
+                "codigo": 1,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>Papel</em> <mark>Higiênico</mark>",
+                "unidade": "Pacote 4,00 UN",
+                "exclusivoMeEpp": 1,
+                "quantidade": "800",
+                "decreto7174": 1,
+                "descricao": "Papel Higiênico"
+            },
+            {
+                "codigo": 5,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>Toalha</mark> De <em>Papel</em>",
+                "unidade": "Pacote 1000,00 UN",
+                "exclusivoMeEpp": 1,
+                "quantidade": "200",
+                "decreto7174": 1,
+                "descricao": "Toalha De Papel"
+            },
+            {
+                "codigo": 10,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>Pano</mark> <em>Limpeza</em>",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "80",
+                "decreto7174": 1,
+                "descricao": "Pano Limpeza"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "EDITAL PUB",
+                "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46377800000127/compras/2025/841/arquivos/1"
+            }
+        ],
+        "dataInicial": "14/03/2025 11:45:47",
+        "dataFinal": "21/03/2025 08:59:59",
+        "uasg": "180293",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Dispensa",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6093897,
+        "objeto": "Aquisição de fardamento, vestuário, uniforme, tecido, aviamento; artigos de higiene pessoal; material de cama, mesa e banho; e material de acondicionamento e embalagem.",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "900012025",
+        "uasgNome": "ESP-PENIT.FEMININA DE RIBEIRAO PRETO",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38021506900012025",
+        "item": [
+            {
+                "codigo": 15,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<em>Papel</em> <mark>Higiênico</mark>",
+                "unidade": "Fardo 64,00 RO",
+                "exclusivoMeEpp": 0,
+                "quantidade": "120",
+                "decreto7174": 1,
+                "descricao": "Papel Higiênico"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "AC_380215-000001-2025 (1)",
+                "url": "https://pncp.gov.br/pncp-api/v1/orgaos/96291141000180/compras/2025/684/arquivos/1"
+            }
+        ],
+        "dataInicial": "14/03/2025 09:55:45",
+        "dataFinal": "21/03/2025 07:59:59",
+        "uasg": "380215",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Dispensa",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6093134,
+        "objeto": "Pano multi-uso",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "901072025",
+        "uasgNome": "ESP-HOSPITAL UNIVERSITÁRIO - USP",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=10215005901072025",
+        "item": [
+            {
+                "codigo": 1,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "<mark>PANO</mark> <em>LIMPEZA</em> - <mark>PANO</mark> <em>LIMPEZA</em>, <mark>MATERIAL</mark> 100% EM FIBRA DE VISCOSE, LÁTEX SINTÉTICO, COMPRIMENTO 300 M, LARGURA 33 CM, CARACTERÍSTICAS ADICIONAIS MICROPERFURADO/GRAMATURA 41G/M2/MULTIUSO, COR VERDE, TIPO BOBIMA",
+                "unidade": "Rolo 300,00 M",
+                "exclusivoMeEpp": 0,
+                "quantidade": "1000",
+                "decreto7174": 1,
+                "descricao": "PANO LIMPEZA"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "10215005901072025000",
+                "url": "https://mdw.minha.effecti.com.br/edital/anexo/1/102150/1/901072025"
+            }
+        ],
+        "dataInicial": "17/03/2025 08:00:00",
+        "dataFinal": "27/03/2025 09:00:00",
+        "uasg": "102150",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Pregão Eletrônico",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    },
+    {
+        "id": 6092959,
+        "objeto": "Aquisição de equipamentos hospitalares",
+        "portal": 1,
+        "portalNome": "ComprasNet",
+        "perfil": "RESOLVI - LICITA",
+        "pregao": "900112025",
+        "uasgNome": "PREFEITURA MUNICIPAL DE ASSIS - SP",
+        "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92648605900112025",
+        "item": [
+            {
+                "codigo": 20,
+                "tipo": 1,
+                "grupo": "",
+                "objeto": "CONJUNTO PARA <em>LIMPEZA</em> - CONJUNTO PARA <em>LIMPEZA</em>, TIPO KIT BALDE E BACIA PARA <em>LIMPEZA</em>, <mark>MATERIAL</mark> PLÁSTICO,COMPONENTES 1 BALDE OVAL 14 LITROS, 1 CESTO BALAIO ORGANIZADO R, APLICAÇÃO <em>LIMPEZA</em> EM GERAL",
+                "unidade": "Unidade",
+                "exclusivoMeEpp": 1,
+                "quantidade": "3",
+                "decreto7174": 1,
+                "descricao": "CONJUNTO PARA LIMPEZA"
+            }
+        ],
+        "anexo": [
+            {
+                "codigo": 1,
+                "nome": "92648605900112025000",
+                "url": "https://mdw.minha.effecti.com.br/edital/anexo/1/926486/1/900112025"
+            }
+        ],
+        "dataInicial": "14/03/2025 08:00:00",
+        "dataFinal": "27/03/2025 09:00:00",
+        "uasg": "926486",
+        "orgao": null,
+        "uf": "São Paulo",
+        "tipo": "Pregão Eletrônico",
+        "anotacoes": [],
+        "planilhaConsumida": false
+    }
+]

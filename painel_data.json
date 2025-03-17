@@ -1,0 +1,118 @@
+{
+    "perfis": [
+        {
+            "idPerfil": 4529,
+            "nomePerfil": "AVANI - BRASIL PROTEC"
+        },
+        {
+            "idPerfil": 6734,
+            "nomePerfil": "GAIA"
+        },
+        {
+            "idPerfil": 4823,
+            "nomePerfil": "GX2"
+        },
+        {
+            "idPerfil": 6632,
+            "nomePerfil": "RESOLVI - LICITA"
+        },
+        {
+            "idPerfil": 4821,
+            "nomePerfil": "SNACK BORDO"
+        }
+    ],
+    "portais": [
+        {
+            "idPortal": 5,
+            "nomePortal": "BEC / Imprensa Oficial / Pregão SP"
+        },
+        {
+            "idPortal": 24,
+            "nomePortal": "BLL - Bolsa de Licitações e Leilões"
+        },
+        {
+            "idPortal": 1362,
+            "nomePortal": "BNC - Bolsa Nacional de Compras"
+        },
+        {
+            "idPortal": 19,
+            "nomePortal": "Banrisul"
+        },
+        {
+            "idPortal": 29,
+            "nomePortal": "Compras Amazonas"
+        },
+        {
+            "idPortal": 898,
+            "nomePortal": "Compras BR"
+        },
+        {
+            "idPortal": 35,
+            "nomePortal": "Compras Mato Grosso"
+        },
+        {
+            "idPortal": 9,
+            "nomePortal": "Compras Minas Gerais"
+        },
+        {
+            "idPortal": 58,
+            "nomePortal": "Compras Pernambuco Integrado"
+        },
+        {
+            "idPortal": 3,
+            "nomePortal": "Compras Públicas"
+        },
+        {
+            "idPortal": 11,
+            "nomePortal": "Compras Santa Catarina"
+        },
+        {
+            "idPortal": 1,
+            "nomePortal": "ComprasNet"
+        },
+        {
+            "idPortal": 25,
+            "nomePortal": "ComprasNet - Cotação Eletrônica"
+        },
+        {
+            "idPortal": 20,
+            "nomePortal": "ComprasNet Goiás"
+        },
+        {
+            "idPortal": 769,
+            "nomePortal": "ComprasNet Simulador"
+        },
+        {
+            "idPortal": 18,
+            "nomePortal": "ComprasRS"
+        },
+        {
+            "idPortal": 28,
+            "nomePortal": "Licitanet"
+        },
+        {
+            "idPortal": 1236,
+            "nomePortal": "Licitar Digital"
+        },
+        {
+            "idPortal": 2,
+            "nomePortal": "Licitações-e"
+        },
+        {
+            "idPortal": 17,
+            "nomePortal": "Procergs"
+        },
+        {
+            "idPortal": 26,
+            "nomePortal": "Publinexo"
+        },
+        {
+            "idPortal": 7,
+            "nomePortal": "Siga Espírito Santo"
+        },
+        {
+            "idPortal": 6,
+            "nomePortal": "Siga Rio de Janeiro"
+        }
+    ]
+}
